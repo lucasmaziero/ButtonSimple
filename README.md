@@ -1,2 +1,2 @@
 # ButtonSimple
-Biblioteca auxiliar para IDE arduino utilizar botoes com anit-debounce
+Biblioteca auxiliar para IDE arduino utilizar botoes com anti-debounce
